@@ -1,6 +1,6 @@
 - 💁‍♀️ Hi, I’m Lilla
 - 🤸‍♀️ I’m interested in technology, self-development and nowadays in front end development and UI design
-- 👩‍🎓 I’m currently learning JS, HTML, CSS on @SheCodes
+- 👩‍🎓 I’m studied JS, HTML, CSS and React on @SheCodes
 - 🤝 I’m looking to collaborate on ... anything? 😊
 - 📧 You can find me online
 
