@@ -1,9 +1,9 @@
 <h1 align="center">💁‍♀️ Hi, I’m Lilla  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35"/></h1>
 
-<p align="center"><a href="https://www.linkedin.com/in/lilla-csanaky-a850a617/" title="Go to Lilla's LinkedIn profile" target="_blank">
+<p align="center"><a href="https://www.linkedin.com/in/lilla-csanaky-a850a617/" title="Go to Lilla's LinkedIn profile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a></p>
-<p align=center><a href="https://www.hackerrank.com/cslylla" title="Go to Lilla's HackerRank profile" target="_blank">
+<p align=center><a href="https://www.hackerrank.com/cslylla" title="Go to Lilla's HackerRank profile">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
 </a></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cslylla&style=flat-square&color=yellow" alt="Views Badge" width="120"/></p>
