@@ -44,7 +44,7 @@ I am a former process engineer currently gaining experience as a web developer. 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cslylla&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![cslylla's github activity graph](https://activity-graph.herokuapp.com/graph?username=cslylla&bg_color=000000&color=F6DE1E&line=F6DE1E&point=F6DE1Ee&area=true&hide_border=true)](https://github.com/cslylla/github-readme-activity-graph)
+[![cslylla's github activity graph](https://activity-graph.herokuapp.com/graph?username=cslylla&bg_color=000000&color=F6DE1E&line=F6DE1E&point=D68C20&area=true&area_color=D68C20&hide_border=true)](https://github.com/cslylla/github-readme-activity-graph)
 
 
 ## Check these out
