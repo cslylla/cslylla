@@ -57,5 +57,5 @@
 ## Check these out
 - 🌐 Visit my [portfolio](https://fervent-mcclintock-5ae779.netlify.app/) website
 - ⌨️ Read my [Medium posts](https://medium.com/@cslylla)
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lilla-csanaky-a850a617/)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lillacsanaky/)
 - 🏆 Check out my badges on [HackerRank](https://www.hackerrank.com/cslylla)
