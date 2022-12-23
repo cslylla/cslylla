@@ -9,7 +9,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cslylla&style=flat-square&color=yellow" alt="Views Badge" width="120"/></p>
 
 ## About me
-⚗️ a carrier changer - previously worked as a <b>process engineer</b> in the pharma industry for ten years<br/>
+⚗️ carrier changer - previously worked as a <b>process engineer</b> in the pharma industry for ten years<br/>
 👩🏻‍🎓 started my coding journey by studying <b>Frontend Development</b> with <a href="https://www.shecodes.io/"><img src="https://www.shecodes.io/assets/branding/logo-shecodes-f9fa0540d113c086f61eb6e89466c0cbd24a42163b6a96d4b01da078803f53ee.png" alt="SheCodes logo" width="100px" height="auto" /></a>, and <a href="https://www.codecademy.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Codecademy.svg/1280px-Codecademy.svg.png" alt="Codecademy logo" width="100px" height="auto" /></a><br/>
 💻 currently a <b>Front-End Engineer</b>, and continuing learning to become a <b>full-stack developer</b><br/>
 👩🏻‍💻 love <b>hackathons</b> -  the best way to learn and practice<br/>
@@ -55,7 +55,7 @@
 
 
 ## Check these out
-- 🌐 Visit my [portfolio](https://fervent-mcclintock-5ae779.netlify.app/) website
+- 🌐 Visit my [portfolio](https://lillacsanaky.dev/) website
 - ⌨️ Read my [Medium posts](https://medium.com/@cslylla)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lillacsanaky/)
 - 🏆 Check out my badges on [HackerRank](https://www.hackerrank.com/cslylla)
