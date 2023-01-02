@@ -49,8 +49,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cslylla&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cslylla&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![cslylla's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cslylla&bg_color=000000&color=F6DE1E&line=F6DE1E&point=D68C20&area=true&area_color=D68C20&radius=10)](https://github.com/cslylla/github-readme-activity-graph)
 
 ## Check these out
