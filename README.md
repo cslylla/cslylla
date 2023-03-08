@@ -52,8 +52,8 @@
 [![cslylla's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cslylla&bg_color=000000&color=F6DE1E&line=F6DE1E&point=D68C20&area=true&area_color=D68C20&radius=10)](https://github.com/cslylla/github-readme-activity-graph)
 
 ## Check these out
-🌐 Visit my [portfolio](https://lillacsanaky.dev/) website
-📰 Read my [Medium posts](https://medium.com/@cslylla)
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lillacsanaky/)
-🌟 Follow me on [Instagram](https://www.instagram.com/creative.debugger/)
-🏆 Check out my badges on [HackerRank](https://www.hackerrank.com/cslylla)
+🌐 Visit my [portfolio](https://lillacsanaky.dev/) website<br/>
+📰 Read my [Medium posts](https://medium.com/@cslylla)<br/>
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lillacsanaky/)<br/>
+🌟 Follow me on [Instagram](https://www.instagram.com/creative.debugger/)<br/>
+🏆 Check out my badges on [HackerRank](https://www.hackerrank.com/cslylla)<br/>
