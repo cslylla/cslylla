@@ -1,15 +1,17 @@
 <h1 align="center">💁‍♀️ Hi, I’m Lilla  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35"/></h1>
 
-<p align="center"><a href="https://www.linkedin.com/in/lilla-csanaky-a850a617/" title="Go to Lilla's LinkedIn profile">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a></p>
-<p align="center"><a href="https://www.instagram.com/creative.debugger/" title="Go to Lilla's Instagram profile">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
-</a></p>
-<p align=center><a href="https://www.hackerrank.com/cslylla" title="Go to Lilla's HackerRank profile">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
-</a></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=cslylla&style=flat-square&color=yellow" alt="Views Badge" width="120"/></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lilla-csanaky-a850a617/" title="Go to Lilla's LinkedIn profile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.instagram.com/creative.debugger/" title="Go to Lilla's Instagram profile">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <a href="https://www.hackerrank.com/cslylla" title="Go to Lilla's HackerRank profile">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cslylla&style=flat-square&color=yellow" alt="Views Badge" width="158"/>
+</p>
 
 ## About me
 ⚗️ carrier changer - previously worked as a <b>process engineer</b> in the pharma industry for ten years<br/>
