@@ -1,7 +1,7 @@
 <h1 align="center">💁‍♀️ Hi, I’m Lilla  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35"/></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lilla-csanaky-a850a617/" title="Go to Lilla's LinkedIn profile">
+  <a href="https://www.linkedin.com/in/lillacsanaky/" title="Go to Lilla's LinkedIn profile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://www.instagram.com/creative.debugger/" title="Go to Lilla's Instagram profile">
