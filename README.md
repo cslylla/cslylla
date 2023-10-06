@@ -59,6 +59,8 @@
 
 [![cslylla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cslylla&bg_color=000000&color=F6DE1E&line=F6DE1E&point=D68C20&area=true&area_color=D68C20&radius=1)](https://github.com/cslylla/github-readme-activity-graph)
 
+[![An image of @cslylla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cslylla)](https://holopin.io/@cslylla)
+
 ## Check these out
 🌐 Visit my [portfolio](https://lillacsanaky.dev/) website<br/>
 📰 Read my [Medium posts](https://medium.com/@cslylla)<br/>
