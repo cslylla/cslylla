@@ -62,9 +62,9 @@
 [![An image of @cslylla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cslylla)](https://holopin.io/@cslylla)
 
 ## Check these out
+🌟 Follow me on [Instagram](https://www.instagram.com/creative.debugger/)<br/>
 🌐 Visit my [portfolio](https://lillacsanaky.dev/) website<br/>
 📰 Read my [Medium posts](https://medium.com/@cslylla)<br/>
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lillacsanaky/)<br/>
-🌟 Follow me on [Instagram](https://www.instagram.com/creative.debugger/)<br/>
 🎨 Take a look at my UI Designs on [Dribbble](https://dribbble.com/cslylla)<br/>
 🏆 Check out my badges on [HackerRank](https://www.hackerrank.com/cslylla)<br/>
