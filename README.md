@@ -15,8 +15,8 @@
 
 ## About me
 ⚗️ <b>Chemical Engineer</b> turned Front-End Engineer with 10+ years of experience in the pharmaceutical industry<br/>
-👩🏻‍🎓 Passionate about <b>Front-End Development</b>, completed courses with <a href="https://www.shecodes.io/"><img src="https://www.shecodes.io/assets/branding/logo-shecodes-f9fa0540d113c086f61eb6e89466c0cbd24a42163b6a96d4b01da078803f53ee.png" alt="SheCodes logo" width="100px" height="auto" /></a> and <a href="https://www.codecademy.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Codecademy.svg/1280px-Codecademy.svg.png" alt="Codecademy logo" width="100px" height="auto" /></a><br/>
-💻 Currently a Front-End Engineer, eager to take on new challenges in the <b>startup world</b><br/>
+👩🏻‍🎓 Passionate about <b>Front-End Development</b>, completed courses with <a href="https://www.shecodes.io/"><img src="https://www.shecodes.io/assets/branding/logo-shecodes-3dfa60aeab8ef361842da5a2b6d46db3af1b7afafefee3dde0a9846389de754b.png" alt="SheCodes logo" width="100px" height="auto" /></a> and <a href="https://www.codecademy.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Codecademy.svg/1280px-Codecademy.svg.png" alt="Codecademy logo" width="100px" height="auto" /></a><br/>
+💻 Currently a Customer Solutions Engineer, eager to take on new challenges in the <b>startup world</b><br/>
 👩🏻‍💻 Enthusiastic about <b>hackathons</b> - the best way to learn and practice<br/>
 🎨 Driven by a love for <b>web design</b> and advocating for <b>web accessibility</b><br/>
 ⌨️ Practising <b>technical writing</b> with open-source contributions<br/>
