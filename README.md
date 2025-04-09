@@ -16,7 +16,7 @@
 ## About me
 ⚗️ <b>Chemical Engineer</b> turned Front-End Engineer with 10+ years of experience in the pharmaceutical industry<br/>
 👩🏻‍🎓 Passionate about <b>Front-End Development</b>, completed courses with <a href="https://www.shecodes.io/"><img src="https://www.shecodes.io/assets/branding/logo-shecodes-3dfa60aeab8ef361842da5a2b6d46db3af1b7afafefee3dde0a9846389de754b.png" alt="SheCodes logo" width="100px" height="auto" /></a> and <a href="https://www.codecademy.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Codecademy.svg/1280px-Codecademy.svg.png" alt="Codecademy logo" width="100px" height="auto" /></a><br/>
-💻 Currently a Customer Solutions Engineer, eager to take on new challenges in the <b>startup world</b><br/>
+💻 Currently a <b>Customer Solutions Engineer</b>, eager to take on new challenges in the <b>startup world</b><br/>
 👩🏻‍💻 Enthusiastic about <b>hackathons</b> - the best way to learn and practice<br/>
 🎨 Driven by a love for <b>web design</b> and advocating for <b>web accessibility</b><br/>
 ⌨️ Practising <b>technical writing</b> with open-source contributions<br/>
@@ -39,7 +39,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
