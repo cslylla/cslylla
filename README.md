@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://lillacsanaky.dev/" target="_blank">
-    <img src="https://lillacsanaky.dev/images/og-preview.png" alt="Lilla Csanaky — Customer Solutions Engineer" width="700" />
+    <img src="https://lillacsanaky.dev/opengraph-image.png" alt="Lilla Csanaky — Customer Solutions Engineer" width="700" />
   </a>
 </p>
 
